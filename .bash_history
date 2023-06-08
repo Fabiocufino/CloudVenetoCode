@@ -366,3 +366,58 @@ cd FeaturesCreation/
 ls
 tmux ls
 tmux attach -t ML_alg3
+git init
+rm -rf ~/.git
+git init
+git add .
+git commit -m "Primo commit"
+git remote add origin https://github.com/Fabiocufino/CloudVenetoCode.git
+git push -u origin master
+git remote add origin https://github.com/Fabiocufino/CloudVenetoCode.git
+git push -u origin master
+git remote set-url origin
+git remote set-url origin https://github.com/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/CloudVenetoCode/
+git push -u origin master
+git remote set-url origin https://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@github.com/CloudVenetoCode.git
+git push -u origin master
+git remote set-url origin https://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@github.com/CloudVenetoCode
+git push -u origin master
+git remote set-url origin https://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@github.com/CloudVenetoCode.git
+git push -u origin master
+git remote set-url origin https://Fabiocufino@github.com/CloudVenetoCode.git
+git push -u origin master
+git remote add origin https://github.com/Fabiocufino/CloudVenetoCode.git
+git push -u origin main
+git init
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/Fabiocufino/CloudVenetoCode.git
+git push -u origin main
+git remote add origin https://github.com/Fabiocufino/CloudVenetoCode.git
+git branch -M main
+git push -u origin main
+rm -rf ~/.git
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/Fabiocufino/CloudVenetoCode.git
+git push -u origin main
+git add .
+git commit -m "Primo commit"
+git remote add origin https://github.com/Fabiocufino/CloudVenetoCode.git
+git push -u origin main
+git pull
+git push -u origin main
+git pull -u origin main
+git push -f -u origin master'
+git push -f -u origin master'
+git push -f -u origin master'
+git push -f -u origin master
+git push -f -u origin master
+rm -rf ~/.git
+git init
+git add .
+git commit -m "Primo commit"
+git remote add origin https://github.com/Fabiocufino/CloudVenetoCode.git
+git push -u origin master
