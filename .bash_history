@@ -421,3 +421,19 @@ git add .
 git commit -m "Primo commit"
 git remote add origin https://github.com/Fabiocufino/CloudVenetoCode.git
 git push -u origin master
+ll
+pwd
+cd Analysis_CV/FeaturesCreation/
+ls
+jupyter nbconvert --execute --to notebook ML_algorithms.ipynb 
+ls
+cd Analysis_CV/
+ls
+cd Analysis_CV/
+ls
+cd BKG_UNcorrelated/
+ls
+tmux new -s ML_alg_n
+tmux ls
+tmux kill-session -t ML_alg3
+tmux ls
