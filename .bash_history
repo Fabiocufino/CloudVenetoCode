@@ -437,3 +437,29 @@ tmux new -s ML_alg_n
 tmux ls
 tmux kill-session -t ML_alg3
 tmux ls
+tmux ls
+tmux attach -t ML_alg_n
+cd ..
+ls
+cd mnt/fcufino/
+ls
+cd
+ls
+jupyter nbconvert --execute --to notebook ML_algorithms.ipynb 
+ls
+cd AN
+cd Analysis_CV/
+ls
+cd BKG_correlated/
+ls
+cd..
+cd ..
+cd BKG_UNcorrelated/
+ls
+tmux kill-session -t ML_alg3
+tmux ls
+tmux kill-session -t ML_alg_n
+tmux new -s PyTorch
+tmux l
+tmux new -s XGBoost_grid
+tmux attach -t PyTorch
